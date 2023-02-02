@@ -1,0 +1,101 @@
+{
+    "_class": "course",
+    "id": 851712,
+    "title": "The Complete JavaScript Course 2021: From Zero to Expert!",
+    "url": "/course/the-complete-javascript-course/",
+    "is_paid": true,
+    "visible_instructors": [
+      {
+        "_class": "user",
+        "id": 7799204,
+        "title": "Jonas Schmedtmann",
+        "display_name": "Jonas Schmedtmann",
+        "job_title": "Web Developer, Designer, and Teacher",
+        "image_50x50": "https://img-b.udemycdn.com/user/50x50/7799204_2091_5.jpg?secure=-KCBrEmyc8elNwsNqvyOyw%3D%3D%2C1616538335",
+        "initials": "JS",
+        "url": "/user/jonasschmedtmann/",
+        "image_200_H": "https://img-a.udemycdn.com/user/200_H/7799204_2091_5.jpg?R4Z98QvjWOR-mp_2_f_bsWNsPOyUmsvPSachX6CVNUJ5LS5qAmawXQUXpN0YaU3Vgc6Ki5yjnYBpKtEO_-EKN0KmaBWwiO0xLAhQxDqDoeSMaliuhkUBuhze3c0",
+        "description": "<p>Hi, I'm Jonas! I have been identified as one of Udemy's Top Instructors and all my premium courses have recently earned the best-selling status for outstanding performance and student satisfaction.</p><p>I'm a full-stack web developer and designer with a passion for building beautiful things from scratch. I've been building websites and apps since 2007 and also have a Master's degree in Engineering.</p><p>It was in college where I first discovered my passion for teaching and helping others by sharing all I knew. And that passion brought me to Udemy in 2015, where my students love the fact that I take the time to explain important concepts in a way that everyone can easily understand.</p><p><strong><em>Do you want to learn how to build awesome websites with advanced HTML&nbsp;and CSS?</em></strong></p><p><strong><em>Looking for a complete JavaScript course that takes you from beginner to advanced developer?</em></strong></p><p><strong><em>Or maybe you want to build modern and fast back-end applications with Node.js?</em></strong></p><p>Then don't waste your time with random tutorials or incomplete videos. All my courses are easy-to-follow, all-in-one packages that will take your skills to the next level.</p><p><em>These courses are exactly the courses I wish I had when I was first getting into web development!</em></p><p>So see for yourself, enroll in one of my courses (or all of them :D) and join my 500,000+ happy students today.</p>",
+        "url_twitter": "https://twitter.com/jonasschmedtman",
+        "url_facebook": "",
+        "url_linkedin": "",
+        "url_youtube": "https://www.youtube.com/channel/UCNsU-y15AwmU2Q8QTQJG1jw",
+        "url_personal_website": "http://jonas.io"
+      }
+    ],
+    "image_240x135": "https://img-a.udemycdn.com/course/240x135/851712_fc61_6.jpg?6gL3fTYySZ3vSOYS-GE0pRh2EcWflrYnTzJkpKEhMd_O120-ZLTskowezgBDcuDD2oBbu6XQMOYYBbOJgw3l_nTlkqC7Li0PWVuubFB8_4YEQCCXicVgrB4j39vQFys",
+    "is_practice_test_course": false,
+    "description": "<p><strong><em>***&nbsp;The #1 bestselling JavaScript&nbsp;course on Udemy! ***</em></strong></p><p><strong><em>*** Completely re-built from scratch in October 2020 (65 hours video) ***</em></strong></p><p><em>\"Really, really well made course. Super in-depth, with great challenges and projects that will solidify your Javascript understanding. I found the lectures were paced perfectly -- Jonas doesn't skip over anything that might be useful to a JS developer\"</em> — Carson Bartholomew</p><p><br></p><p>JavaScript is the most popular programming language in the world. It powers the entire modern web. It provides millions of high-paying jobs all over the world.</p><p>That's why you want to learn JavaScript too. And you came to the right place!</p><p><br></p><p><strong>Why is this the right JavaScript course for you?</strong></p><p><em>This is the most complete JavaScript course on Udemy. It's an all-in-one package that will take you from the very fundamentals of JavaScript, all the way to building modern and complex applications.</em></p><p>You will learn modern JavaScript from the very beginning, step-by-step. I will guide you through <strong>practical and fun code examples</strong>, <strong>important theory</strong> about how JavaScript works behind the scenes, and <strong>beautiful and complete projects</strong>.</p><p>You will also learn how to think like a developer, how to plan application features, how to architect your code, how to debug code, and a lot of other real-world skills that you will need on your developer job.</p><p>And unlike other courses, this one actually contains beginner, intermediate, advanced, and even expert topics, so <strong>you don't have to buy any other course in order to master JavaScript</strong> from the ground up!</p><p>But... You don't have to go into all these topics. This is a huge course, because, after all, it's \"The Complete JavaScript Course\". In fact, it's like many courses in one! <strong>But you can become an excellent developer by watching only parts of the course</strong>. That's why I built this course in a very modular way, and designed pathways that will take you through the course faster.</p><p><em>By the end of the course, you will have the knowledge and confidence that you need in order to ace your job interviews and become a professional developer.</em></p><p><br></p><p><strong>Why am I the right JavaScript teacher for you?</strong></p><p>My name is Jonas, I'm an experienced web developer and designer, and one of Udemy's top instructors. I have been teaching this bestselling course since 2016 to over 350,000 developers, always listening to feedback and understanding exactly how students actually learn.</p><p>Recently, I took all my teaching experience to build this new and greatly improved JavaScript course. It's now the best and most in-depth JavaScript course that you will find on Udemy (and maybe the entire internet).</p><p>I know how students learn JavaScript and what they need in order to master it. And with that knowledge, I designed the ideal course curriculum. <strong>It's a unique blend of real-world projects, deep explanations, theory lectures, and challenges</strong>, that will take you from zero to an expert and confident JavaScript developer in just a couple of weeks.</p><p><br></p><p><strong>So what exactly is covered in the course?</strong></p><ul><li><p>Build 5 beautiful real-world projects for your portfolio! In these projects, you will learn how to plan and architect your applications using flowcharts and common JavaScript patterns</p></li><li><p>Master the JavaScript fundamentals: variables, if/else, operators, boolean logic, functions, arrays, objects, loops, strings, and more</p></li><li><p>Learn modern JavaScript (ES6+) from the beginning: arrow functions, destructuring, spread operator, default arguments, optional chaining (ES2020), and more</p></li><li><p>How JavaScript works behind the scenes: engines, the call stack, hoisting, scoping, the 'this' keyword, reference values, and more.</p></li><li><p>Deep dive into functions: arrow functions, first-class and higher-order functions, bind, and closures.</p></li><li><p>Deep dive into object-oriented programming: prototypal inheritance, constructor functions (ES5), classes (ES6), encapsulation, abstraction, inheritance, and polymorphism. [This is like a small standalone course]</p></li><li><p>Deep dive into asynchronous JavaScript: the event loop, promises, async/await, and error handling. You will use these to access data from third-party APIs with AJAX calls. [This is like a small standalone course]</p></li><li><p>Learn modern tools that are used by professional web developers: NPM, Parcel (module bundler), Babel, and ES6 modules</p></li></ul><p>Check out the course curriculum for an even more detailed overview of the content :)</p><p><br></p><p><strong>This is what's also included in the package:</strong></p><ul><li><p>Up-to-date HD-quality videos, that are easy to search and reference (great for Udemy for Business students)</p></li><li><p>Videos are also downloadable. Learn wherever you want, even without an internet connection!</p></li><li><p>Professional English captions (not the&nbsp;auto-generated ones)</p></li><li><p>Downloadable starter code and final code for each section</p></li><li><p>Downloadable slides for 40+ theory videos (not boring, I promise!)</p></li><li><p>Free support in the course Q&amp;A</p></li><li><p>25+ coding challenges and 25+ assignments to practice your new skills (solutions included)</p></li></ul><p><br></p><p><strong>This course is for you if...</strong></p><ul><li><p>... you want to gain a true and deep understanding of JavaScript</p></li><li><p>... you have been trying to learn JavaScript but: 1) still don't really understand JavaScript, or 2) still don't feel confident to code real apps</p></li><li><p>... you are interested in using a library/framework like React, Angular, Vue, or Node.js in the future</p></li><li><p>... you already know JavaScript and are looking for an advanced course. This course includes expert topics!</p></li><li><p>... you want to get started with programming: JavaScript is a great first language!</p></li></ul><p><br></p><p><strong>Does any of these look like you? If so, then start this adventure today, and join me and 350,000+ other developers in the only JavaScript course that you will&nbsp;ever need!</strong></p>",
+    "headline": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
+    "num_subscribers": 422110,
+    "num_cpe_credits": null,
+    "is_private": false,
+    "is_published": true,
+    "locale": {
+      "_class": "locale",
+      "locale": "en_US",
+      "simple_english_title": "English"
+    },
+    "instructional_level": "All Levels",
+    "content_info": "68.5 total hours",
+    "content_length_practice_test_questions": 0,
+    "is_cpe_compliant": false,
+    "cpe_field_of_study": null,
+    "cpe_program_level": null,
+    "is_owned_by_instructor_team": false,
+    "is_owner_terms_banned": false,
+    "content_length_video": 245403,
+    "prerequisites": [
+      "No coding experience is necessary to take this course! I take you from beginner to expert!",
+      "Any computer and OS will work — Windows, macOS or Linux. We will set up your text editor the course.",
+      "A basic understanding of HTML and CSS is a plus, but not a must! The course includes an HTML and CSS crash course."
+    ],
+    "objectives": [
+      "Become an advanced, confident, and modern JavaScript developer from scratch",
+      "Build 6 beautiful real-world projects for your portfolio (not boring toy apps)",
+      "Become job-ready by understanding how JavaScript really works behind the scenes",
+      "How to think and work like a developer: problem-solving, researching, workflows",
+      "JavaScript fundamentals: variables, if/else, operators, boolean logic, functions, arrays, objects, loops, strings, etc.",
+      "Modern ES6+ from the beginning: arrow functions, destructuring, spread operator, optional chaining (ES2020), etc.",
+      "Modern OOP: Classes, constructors, prototypal inheritance, encapsulation, etc.",
+      "Complex concepts like the 'this' keyword, higher-order functions, closures, etc.",
+      "Asynchronous JavaScript: Event loop, promises, async/await, AJAX calls and APIs",
+      "How to architect your code using flowcharts and common patterns",
+      "Modern tools for 2020 and beyond: NPM, Parcel, Babel and ES6 modules",
+      "Practice your skills with 50+ challenges and assignments (solutions included)",
+      "Get downloadable lectures and friendly support in the Q&A area",
+      "Design your unique learning path according to your goals: course pathways"
+    ],
+    "target_audiences": [
+      "Take this course if you want to gain a true and deep understanding of JavaScript",
+      "Take this course if you have been trying to learn JavaScript but: 1) still don't really understand JavaScript, or 2) still don't feel confident to code real apps",
+      "Take this course if you're interested in using a library/framework like React, Angular, Vue or Node in the future",
+      "Take this course if you already know JavaScript and are looking for an advanced course. This course includes expert topics!",
+      "Take this course if you want to get started with programming: JavaScript is a great first language!"
+    ],
+    "is_approved": true,
+    "instructor_status": {
+      "_class": "instructor_course_status",
+      "id": 5122,
+      "user": {
+        "_class": "user",
+        "id": 7799204,
+        "title": "Jonas Schmedtmann",
+        "display_name": "Jonas Schmedtmann",
+        "job_title": "Web Developer, Designer, and Teacher",
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/7799204_2091_5.jpg?IOeAT07rLE4ltCNQpEbftZCOYybmL7eHuzzwgxqpHJs06DgkKe_kn5Xq-YIgK6QMRkhRYIFetEHen7hcfWVKrqowL3N0VcvLSwrfqwoSg-92zD9zRJNh9YhZ27A",
+        "initials": "JS",
+        "url": "/user/jonasschmedtmann/",
+        "image_200_H": "https://img-b.udemycdn.com/user/200_H/7799204_2091_5.jpg?secure=s_2faL7QoBwTMsKKMPjTyg%3D%3D%2C1616538335",
+        "description": "<p>Hi, I'm Jonas! I have been identified as one of Udemy's Top Instructors and all my premium courses have recently earned the best-selling status for outstanding performance and student satisfaction.</p><p>I'm a full-stack web developer and designer with a passion for building beautiful things from scratch. I've been building websites and apps since 2007 and also have a Master's degree in Engineering.</p><p>It was in college where I first discovered my passion for teaching and helping others by sharing all I knew. And that passion brought me to Udemy in 2015, where my students love the fact that I take the time to explain important concepts in a way that everyone can easily understand.</p><p><strong><em>Do you want to learn how to build awesome websites with advanced HTML&nbsp;and CSS?</em></strong></p><p><strong><em>Looking for a complete JavaScript course that takes you from beginner to advanced developer?</em></strong></p><p><strong><em>Or maybe you want to build modern and fast back-end applications with Node.js?</em></strong></p><p>Then don't waste your time with random tutorials or incomplete videos. All my courses are easy-to-follow, all-in-one packages that will take your skills to the next level.</p><p><em>These courses are exactly the courses I wish I had when I was first getting into web development!</em></p><p>So see for yourself, enroll in one of my courses (or all of them :D) and join my 500,000+ happy students today.</p>",
+        "url_twitter": "https://twitter.com/jonasschmedtman",
+        "url_facebook": "",
+        "url_linkedin": "",
+        "url_youtube": "https://www.youtube.com/channel/UCNsU-y15AwmU2Q8QTQJG1jw",
+        "url_personal_website": "http://jonas.io"
+      },
+      "status": 1,
+      "respond_time_frame": "48 hours",
+      "available_date": null
+    }
+  }

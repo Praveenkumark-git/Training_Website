@@ -1,0 +1,126 @@
+{
+    "app": {
+      "name": "Udemy",
+      "audio_enabled": true,
+      "show_powered_by": false,
+      "active_admins": [
+        {
+          "id": "493825",
+          "first_name": "Jonathan",
+          "avatar": {
+            "initials": "J",
+            "color": "261860",
+            "image_urls": {
+              "square_25": "https://static.intercomassets.com/avatars/493825/square_25/Jonathan_headshot-1464612870.jpeg?1464612870",
+              "square_50": "https://static.intercomassets.com/avatars/493825/square_50/Jonathan_headshot-1464612870.jpeg?1464612870",
+              "square_128": "https://static.intercomassets.com/avatars/493825/square_128/Jonathan_headshot-1464612870.jpeg?1464612870"
+            },
+            "image_url": "https://static.intercomassets.com/avatars/493825/square_128/Jonathan_headshot-1464612870.jpeg?1464612870"
+          },
+          "has_photo_avatar": true,
+          "name": "Jonathan"
+        }
+      ],
+      "team_intro": "Share your feedback and feature requests with the Udemy product team",
+      "team_greeting": "Hi Vivek 👋",
+      "messenger_background": null,
+      "expected_response_delay_translation_key": "conversation_card_unknown_response_time",
+      "launcher_expected_response_delay_translation_key": "the_team_typically_replies_in_unknown",
+      "sms_notifications_enabled": false,
+      "inbound_conversations_disabled": false,
+      "access_to_teammate_enabled": true,
+      "office_hours_response": "Later today",
+      "help_center_site_url": null,
+      "messenger_logo_url": "https://downloads.intercomcdn.com/i/o/84599/116aad34eaf715f9b85cb643/5e1ecdbccd66f235398737092ba75736.png",
+      "launcher_logo_url": null,
+      "user_conversation_attachments_enabled": true,
+      "user_conversation_gifs_enabled": true,
+      "developer_workspace": false,
+      "upfront_email_collection_setting": "never",
+      "self_serve_suggestions_match": true,
+      "temporary_expectations_message": null,
+      "use_cache_for": []
+    },
+    "user": {
+      "id": "59ae2a380a13943d24225d73",
+      "type": "user",
+      "role": "user_role",
+      "locale": "en",
+      "has_conversations": true,
+      "country_code": "in",
+      "home_screen_slots": [],
+      "last_contacted_at": "2020-05-21T01:12:36.854+00:00",
+      "new_session": false
+    },
+    "unread_conversation_ids": [],
+    "unread_dismissed_conversation_ids": [],
+    "client_messages": [],
+    "client_matches": [],
+    "modules": {
+      "messages": {
+        "colors": {
+          "base": "#007791",
+          "secondary": "#007791"
+        },
+        "features": {
+          "rtm": true,
+          "inbound_messages": true,
+          "inbound_lead_messaging": true,
+          "outbound_messages": true,
+          "inbound_lead_messaging_docs_site": false,
+          "launcher_discovery_mode": true,
+          "marketo_enrichment_installed": false,
+          "hubspot_installed": false,
+          "google_analytics": true,
+          "periodic_evaluator": false,
+          "single_page_app_rate_limiting": false,
+          "persist_across_pages": true,
+          "cross_site_cookies": false,
+          "render_native_picker_in_mobile": false,
+          "render_attachments_as_plain_text": false,
+          "disable_long_polling": true,
+          "search_browse": false,
+          "search_browse_enforced": false,
+          "search_browse_new_ia": false,
+          "client_matching_refresh_active_match": true
+        },
+        "instant_boot_enabled": true,
+        "google_analytics_tracking_id": null,
+        "use_activator": false,
+        "can_use_messenger": true,
+        "show_launcher": false,
+        "activator": null
+      },
+      "rtm": {
+        "endpoints": [
+          "https://nexus-websocket-a.intercom.io/pubsub/5-uBnWVJQhpWympen-2i7-pDW9qlvIdtKAiuJnKMwInh4hH4GSq3FJXrKRf8qRP47yrJo9oijjKtwA8jJFh293sf8tMPA32kOBR3aG"
+        ]
+      },
+      "metrics": {
+        "enabled": false
+      },
+      "error_reporting": {
+        "disabled": false
+      },
+      "customization": {
+        "alignment": "right",
+        "brand_name": "Udemy",
+        "horizontal_padding": 20,
+        "messenger_logo_url": "https://downloads.intercomcdn.com/i/o/84599/116aad34eaf715f9b85cb643/5e1ecdbccd66f235398737092ba75736.png",
+        "launcher_logo_url": null,
+        "messenger_wallpaper": null,
+        "vertical_padding": 20,
+        "vertical_padding_android": 16,
+        "vertical_padding_ios": 20
+      }
+    },
+    "composer_state": {
+      "visible": true,
+      "version": 0,
+      "self_serve_suggestions_enabled": false
+    },
+    "anonymous_session": "b3lBNlBIYkE4REFOaWdCbTYxVUFaQWNjWXRsOE83RTRDaGU0MEx6TXg2RExPaDJCNmxrQUhvVE15ZVU3aXhUUC0tM0hVTE5TSWYyZkpQU1BSVEVMaWwydz09--589888c1ef5a2894e2cfda949e85dfabff6ebe69",
+    "identity_verified": true,
+    "origin_cookie_domain": "udemy.com",
+    "cdas_breaching_limit": []
+  }
